@@ -14,8 +14,11 @@ Nota: Consultas realizadas dentro de los sitios web [XPather](https://xpather.co
 
 
 Devuelve:
+
+```
 1. A room in POLONIUS' house.
 2. A room in the castle.
+```
 
 #### 2. ¿Cuántas veces habla Hamlet?
 
@@ -23,7 +26,6 @@ Devuelve:
 ```
 count(//SPEECH[SPEAKER='HAMLET'])
 ```
-
 
 Devuelve : **359**
 
